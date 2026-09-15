@@ -1,1 +1,45 @@
 index.html
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Davide Frascogna | Scienze Biologiche</title>
+
+    <meta name="description"
+          content="Davide Frascogna, studente di Scienze Biologiche presso l'Università degli Studi del Molise.">
+
+</head>
+
+<body>
+
+    <h1>Davide Frascogna</h1>
+
+    <h2>Studente di Scienze Biologiche</h2>
+
+    <p>
+        Sono uno studente di Scienze Biologiche presso
+        l'Università degli Studi del Molise, interessato alla
+        biologia, alla ricerca scientifica e alla divulgazione.
+    </p>
+
+    <h2>Formazione</h2>
+
+    <p>
+        Laurea triennale in Scienze Biologiche<br>
+        Università degli Studi del Molise
+    </p>
+
+    <h2>Interessi</h2>
+
+    <ul>
+        <li>Biologia</li>
+        <li>Genetica</li>
+        <li>Microbiologia</li>
+        <li>Divulgazione scientifica</li>
+        <li>Fotografia naturalistica</li>
+    </ul>
+
+</body>
+</html>
